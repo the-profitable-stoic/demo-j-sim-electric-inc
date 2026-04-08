@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-j-sim-electric-inc.dream-surge.com/sitemap-index.xml
